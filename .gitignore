@@ -1,0 +1,15 @@
+# Ignore raw data
+data/raw/
+*.csv
+*.zip
+*.7z
+
+# Ignore the models (too big for GitHub)
+models/
+*.joblib
+
+# Ignore python cache
+__pycache__/
+.ipynb_checkpoints/
+
+.env
