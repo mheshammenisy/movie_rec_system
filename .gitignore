@@ -4,9 +4,6 @@ data/raw/
 *.zip
 *.7z
 
-# Ignore the models (too big for GitHub)
-models/
-*.joblib
 
 # Ignore python cache
 __pycache__/
